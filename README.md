@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecca-micol-finzi/)
+
+
 <!--
 **rebeccafinzi/rebeccafinzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
