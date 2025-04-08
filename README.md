@@ -1,19 +1,13 @@
-## Hi there 👋
+## Welcome to My GitHub Portfolio! :wave:
+Hi there! I'm a Data Science Master's student, and I'm excited to share my projects with you. In this repository, you’ll find a collection of projects from both my Bachelor’s and Master’s studies.
+
+I’ve uploaded various works that showcase my skills in data analysis, machine learning, statistical modeling, and data visualization. These projects highlight the journey I've taken to improve my knowledge in data science, so feel free to explore, provide feedback, and connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecca-micol-finzi-b5083b215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
+<p align="center">
+  🏠
+</p>
 
-<!--
-**rebeccafinzi/rebeccafinzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me:  
+**Email:** rebecca.m.finzi@gmail.com
