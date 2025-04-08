@@ -7,4 +7,6 @@ I’ve uploaded various works that showcase my skills in data analysis, machine 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecca-micol-finzi-b5083b215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-  📬How to reach me: rebecca.m.finzi@gmail.com
+📬How to reach me: rebecca.m.finzi@gmail.com
+  
+</p>
